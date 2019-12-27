@@ -1,0 +1,98 @@
+#navbarNav{
+    margin-left: 690px;
+    width: 500px;
+    /* border: solid red 2px; */
+}
+header{
+    background-color: rgba(0, 0, 0, 0.74); 
+}
+ul li {
+    text-align: center;   
+}
+ul li a{
+    width: 110px;
+    
+}
+.active a{
+    color: #44CCFF !important;
+}
+nav ul li a:hover{
+    color: #44CCFF !important;
+}
+#topper{
+    width: 100%;
+    height: 697px;
+    /* background-image:  linear-gradient(#7ed957, #2CD397); */
+    background-image: url("img/lll.png");
+}   
+.ikkr1{
+    margin-left: 9%;
+    width: 900px;
+    height: 400px;
+    margin-top: 120px;
+}
+/* #ike1{
+    background-image: url("img/Untitled\ design.png");
+    opacity: 0.1px;
+} */
+/* #ike2{
+    background-image: url("img/ffff.png");
+} */
+.text{
+    float: left;
+    height: 100%;
+    width: 50%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    line-height: 40px;
+    text-shadow: 2px 2px 4px black;
+}
+.ikkr{
+    float: right;
+    height: 100%;
+    width: 45%;
+}
+.blu{
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    line-height: 40px;
+    text-shadow: 2px 2px 4px black;
+    
+}
+.btn{
+    background-color: rgb(3, 105, 3);
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: none;
+    padding: 10px;
+    box-shadow: 1px 1px;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-left: 43%;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.btn a:hover{
+    color: black;
+}
+span{
+    color: #44CCFF;
+}
+#logo #one{
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+

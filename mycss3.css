@@ -1,0 +1,96 @@
+header{
+    background-color: rgba(0, 0, 0, 0.74);
+}
+#navbarNav{
+    margin-left: 690px;
+    width: 500px;
+    /* border: solid red 2px; */
+}
+ul li {
+    text-align: center;   
+}
+ul li a{
+    width: 110px;
+    
+}
+.active a{
+    color: #44CCFF !important;
+}
+nav ul li a:hover{
+    color: #44CCFF !important;
+}
+#whole{
+    width: 100%;
+    height: 1200px;
+    background-image: url("img/lll.png");
+    background-size: cover;
+}
+footer{
+    margin-top: 105px;
+    color: white;
+    width: 100%;
+    height: 175px;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+#logo #one{
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#add{
+    clear: left;
+    padding-top: 0px;
+    margin-left: 50px;
+}
+#form{
+    width: 60%;
+    height: 60%;
+    margin: auto;
+    margin-top: 10%;
+    
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+form h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#form b{
+    color: white;
+    font-weight: 400;
+}
+form input{
+    width: 300px;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    background-color: #44CCFF;
+    text-align: center;
+}
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+.btn a:hover{
+    color: black;
+}
+#vtr{
+    margin-top: 0;
+    width: 50px;
+}
+span{
+    color: white;
+}
+#logo1 #one{
+    margin-left: 50px;
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
